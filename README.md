@@ -16,7 +16,7 @@
 ***
 title: **'Code Institiute - Bootstrap Basecamp - Source Code & Installation'**
 
-description: **#**
+description: **Installing/ initiating Bootstrap CSS on a very simple page.**
 
 author: **[DHSTUDIO](https://dhstudio.design "DHSTUDIO")** 
 
