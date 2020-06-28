@@ -12,7 +12,7 @@
 ***
 
 ***
-#### project url: **'https://davidhubber.github.io/ci-bootstrap_basecamp-source_code_and_installation/'**
+#### project url: **'https://codeinstitute-davidhubber.github.io/ci-bootstrap_basecamp-source_code_and_installation/'**
 ***
 title: **'Code Institiute - Bootstrap Basecamp - Source Code & Installation'**
 
